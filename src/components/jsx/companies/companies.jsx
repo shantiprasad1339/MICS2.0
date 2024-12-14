@@ -72,7 +72,7 @@ function Companybox() {
     fetchData();
   }, []);
 
- 
+  
   return (
     <>
       {companies &&
